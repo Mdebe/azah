@@ -256,19 +256,7 @@ export default function Hero() {
         />
       </div>
 
-      {/* =====================================================
-          WHATSAPP
-      ====================================================== */}
-
-      <a
-        href="https://wa.me/27641656426?text=Hello%20Azah%20Trading%21%20I%20would%20like%20to%20enquire%20about%20your%20products%20and%20store."
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Chat with Azah Trading on WhatsApp"
-        className="absolute bottom-20 right-4 z-30 flex h-10 w-10 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform duration-300 hover:scale-110 sm:bottom-20 sm:right-8 sm:h-12 sm:w-12"
-      >
-        <FaWhatsapp className="h-5 w-5 sm:h-[22px] sm:w-[22px]" />
-      </a>
+   
 
       {/* =====================================================
           BOTTOM ACCENT
