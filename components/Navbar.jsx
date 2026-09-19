@@ -20,7 +20,7 @@ export default function Navbar() {
     { label: "Visit Us", href: "/contact" },
   ];
 
-  const whatsappNumber = "27641656426";
+  const whatsappNumber = "27615418189";
 
   const whatsappMessage =
     "Hello Azah Trading! I would like to enquire about your products and store.";

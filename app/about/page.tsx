@@ -51,7 +51,7 @@ About Azah Trading </span>
             </Link>
 
             <a
-              href="https://wa.me/27641656426?text=Hello%20Azah%20Trading!%20I%20would%20like%20to%20find%20out%20more%20about%20your%20store."
+              href="https://wa.me/27615418189?text=Hello%20Azah%20Trading!%20I%20would%20like%20to%20find%20out%20more%20about%20your%20store."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/15 bg-white/5 px-6 py-3.5 font-bold text-white"

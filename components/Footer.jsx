@@ -24,7 +24,7 @@ export default function Footer() {
     "https://maps.app.goo.gl/3QTDxHD34rw1k5Fm6";
 
   const whatsappUrl = `https://wa.me/${
-    phoneNumbers.primary
+    phoneNumbers.secondary
   }?text=${encodeURIComponent(whatsappMessage)}`;
 
   const instagramUrl = "#";

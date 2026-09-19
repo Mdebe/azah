@@ -49,7 +49,7 @@ return ( <main className="bg-white text-[#1c1c1c]">
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a
-              href={`https://wa.me/${PRIMARY_PHONE}?text=Hello%20Azah%20Trading!%20I%20would%20like%20to%20make%20an%20enquiry.`}
+              href={`https://wa.me/${SECONDARY_PHONE}?text=Hello%20Azah%20Trading!%20I%20would%20like%20to%20make%20an%20enquiry.`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-[#25d366] px-6 py-3.5 font-bold text-white transition hover:scale-[1.02]"
@@ -114,7 +114,7 @@ return ( <main className="bg-white text-[#1c1c1c]">
     <div className="mt-12 grid gap-6 md:grid-cols-3">
       {/* WHATSAPP */}
       <motion.a
-        href={`https://wa.me/${PRIMARY_PHONE}?text=Hello%20Azah%20Trading!%20I%20would%20like%20to%20make%20an%20enquiry.`}
+        href={`https://wa.me/${SECONDARY_PHONE}?text=Hello%20Azah%20Trading!%20I%20would%20like%20to%20make%20an%20enquiry.`}
         target="_blank"
         rel="noopener noreferrer"
         whileHover={{ y: -5 }}
@@ -133,7 +133,7 @@ return ( <main className="bg-white text-[#1c1c1c]">
         </p>
 
         <p className="mt-4 font-bold text-[#18a999]">
-          064 165 6426
+          +27 61 541 8189
         </p>
       </motion.a>
 
@@ -383,7 +383,7 @@ return ( <main className="bg-white text-[#1c1c1c]">
       </p>
 
       <a
-        href={`https://wa.me/${PRIMARY_PHONE}?text=Hello%20Azah%20Trading!%20I%20am%20planning%20to%20visit%20your%20store%20and%20would%20like%20to%20make%20an%20enquiry.`}
+        href={`https://wa.me/${SECONDARY_PHONE}?text=Hello%20Azah%20Trading!%20I%20am%20planning%20to%20visit%20your%20store%20and%20would%20like%20to%20make%20an%20enquiry.`}
         target="_blank"
         rel="noopener noreferrer"
         className="mt-8 inline-flex items-center gap-2 rounded-xl bg-[#25d366] px-7 py-3.5 font-bold text-white"
